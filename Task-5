@@ -1,0 +1,13 @@
+<html>
+    <body>
+        <forms>
+            <input type="text" placeholder="username">
+            <br>
+            <br>
+            <input type="text" placeholder="password">
+            <br>
+            <br>
+            <a href="./resume.html"><button>login</button></a>
+        </forms>
+    </body>
+</html>
