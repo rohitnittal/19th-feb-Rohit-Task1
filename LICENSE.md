@@ -1,0 +1,6 @@
+<html>
+    <body>
+        <a href="./register1.html">do you want to open resume</a>
+        <br>
+    </body>
+</html>
