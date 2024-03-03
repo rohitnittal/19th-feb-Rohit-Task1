@@ -1,0 +1,13 @@
+<html>
+    <body>
+        <forms>
+            <input type="text" placeholder="username">
+            <br>
+            <br>
+            <input type="text" placeholder="password">
+            <br>
+            <br>
+            <a href="./13-02-24 hotel.html"><button>login</button></a>
+        </forms>
+    </body>
+</html>
